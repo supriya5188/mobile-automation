@@ -2,9 +2,10 @@
 
 ### Requirements
 1. Node JS (use latest)
-2. create free account on [brwser](https://www.browserstack.com/)
-3. upload App on browserstack
-4. take User Name, and User Access Key from your browserstack account
+2. VS Code
+3. create free account on [brwser](https://www.browserstack.com/)
+4. upload App on browserstack
+5. take User Name, and User Access Key from your browserstack account
 
 ### Install and Run
 1. clone repo
